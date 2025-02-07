@@ -1,4 +1,3 @@
-
 const T = parseInt(readline());
 
 for (let i = 0; i < T; i++) {
